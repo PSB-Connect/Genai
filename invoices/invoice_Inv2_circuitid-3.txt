@@ -1,0 +1,22 @@
+Customer Name: Vikram Damodaran
+Customer ID: 123456
+Billing Account: billAccount2
+
+Purchase Order Number: 
+
+Billing Address: New Jesry 07304
+Service Address: 
+
+Invoice Number: Inv2
+Invoice Date: 2024-09-30
+Invoice Amount: 55000
+Invoice Currency: JPY
+
+--- Circuit Details ---
+Circuit ID: circuitid-3
+A End City: New Jersey 07304
+B End City: tokyo 135-0061
+Bandwidth: N/A
+Monthly Recurring Charge: 10,000
+Non Recurring Charge: N/A
+Total Charges: N/A

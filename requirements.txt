@@ -1,0 +1,11 @@
+haystack-ai
+faiss-cpu
+pdfminer.six
+transformers
+PyMuPDF 
+datasets
+torch
+pdfplumber
+langchain
+sentence-transformers
+langchain-community

@@ -1,0 +1,34 @@
+Customer Name: Vikram Damodaran
+Customer ID: 123456
+Billing Account: {bill Account}
+
+Purchase Order Number: {po Number}
+
+Billing Address: {bill Address} 
+
+Service Address: {service Adress}
+
+Invoice Number: {invoice Number}
+
+Invoice Date: {date}
+
+Invoice Amount: {invoice Amount}
+
+Invoice Currency: {currency}
+ 
+Circuit ID: {circuitid}
+
+A End City: {a-location}
+
+B End City: {b-location}
+
+Bandwidth: {band\\nwidth}
+
+Monthly Recurring Charge: {mrc}
+
+Non Recurring Charge: {nonrec\\nchgs}
+
+Total Charges: {total\\ncharges}
+ 
+ 
+ 

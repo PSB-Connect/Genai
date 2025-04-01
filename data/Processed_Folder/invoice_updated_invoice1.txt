@@ -1,0 +1,13 @@
+Customer Name: vikram damodaran
+    Customer ID: 123456
+    Billing Account: billaccount1
+
+    Purchase Order Number: N/A
+
+    Billing Address: japan 103-0021 tokyo 3-3-14, nhi-hongokucho chuo-ku
+    Service Address: N/A
+
+    Invoice Number: inv1
+    Invoice Date: 2024-09-30
+    Invoice Amount: 55000
+    Invoice Currency: jpy

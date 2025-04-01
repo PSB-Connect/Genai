@@ -1,0 +1,13 @@
+Customer Name: badri nath
+    Customer ID: 1321
+    Billing Account: billaccount2
+
+    Purchase Order Number: N/A
+
+    Billing Address: new jesry 07304
+    Service Address: N/A
+
+    Invoice Number: inv2
+    Invoice Date: 2024-09-30
+    Invoice Amount: 55000
+    Invoice Currency: jpy

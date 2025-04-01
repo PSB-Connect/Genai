@@ -1,0 +1,49 @@
+{
+    "invoice Number": "{invoice Number}",
+    "Customer Name": "Vikram Damodaran",
+    "Customer ID": "123456",
+    "bill Account": "{bill Account}",
+    "bill Address": "{bill Address}",
+    "bill Address City": "{bill Address City}",
+    "bill Address State": "{bill Address State}",
+    "bill Address Country": "{bill Address Country}",
+    "bill Address Zip": "{bill Address Zip}",
+    "service Adress": "{service Adress}",
+    "ship Address City": "{ship Address City}",
+    "ship Address State": "{ship Address State}",
+    "ship Address Country": "{ship Address Country}",
+    "ship Address Zip": "{ship Address Zip}",
+    "ship To Account": "{ship To Account}",
+    "date": "{date}",
+    "invoice Amount": "{invoice Amount}",
+    "outstanding Bal": "{outstanding Bal}",
+    "currency": "{currency}",
+    "project Number": "{project Number}",
+    "po Number": "{po Number}",
+    "project Type": "{project Type}",
+    "Tables": [
+        {
+            "circuitid": "{circuitid}",
+            "po#": "{po#}",
+            "costcentre": "{costcentre}",
+            "additionalinfo": "{additionalinfo}",
+            "a-location": "{a-location}",
+            "b-location": "{b-location}",
+            "band\\nwidth": "{band\\nwidth}",
+            "period-from": "{period-from}",
+            "period-to": "{period-to}",
+            "chargetype": "{chargetype}",
+            "mrc": "{mrc}",
+            "recchgs\\nforperiod": "{recchgs\\nforperiod}",
+            "nonrec\\nchgs": "{nonrec\\nchgs}",
+            "total\\ncharges": "{total\\ncharges}"
+        },
+        {
+            "currency": "{currency}",
+            "totalmrc": "{totalmrc}",
+            "totalrecchgs\\nforperiod": "{totalrecchgs\\nforperiod}",
+            "totalnonrec\\nchgs": "{totalnonrec\\nchgs}",
+            "total\\ncharges": "{total\\ncharges}"
+        }
+    ]
+}
